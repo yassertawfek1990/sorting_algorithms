@@ -1,9 +1,11 @@
 #include "sort.h"
 
 /**
- * swap_ints - Swarray.
+ * swap - Swarray.
  * @z: The egrto wap.
  * @x: The r to swap.
+ *
+ * description: Pr.
  */
 void swap(int *z, int *x)
 {
