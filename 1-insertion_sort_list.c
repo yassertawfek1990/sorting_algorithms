@@ -37,7 +37,7 @@ void insertion_sort_list(listint_t **list)
 	for (it = (*list)->next; it != NULL; it = t)
 	{
 		t = it->next;
-		ins = it->prev;
+		in = it->prev;
 		while (in != NULL && it->n < in->n)
 		{
 			swap(list, &in, it);
