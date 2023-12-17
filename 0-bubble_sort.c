@@ -18,6 +18,7 @@ void swap(int *z, int *x)
  * bubble_sort - Sorrder.
  * @array: Anrt.
  * @size: Thsiz
+ * Description: Pr
  */
 void bubble_sort(int *array, size_t size)
 {
