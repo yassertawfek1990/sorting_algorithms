@@ -6,7 +6,7 @@ void quick_sort(int *array, size_t size);
 void swap(int *z, int *x);
 
 /**
- * lomuto_partition - Ordernt as pivot.
+ * partition - Ordernt as pivot.
  * @array: Theers.
  * @size: Thay.
  * @l: Theorder.
